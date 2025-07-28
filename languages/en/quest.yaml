@@ -1,0 +1,35 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Why are you approaching that guy?
+
+message_1:
+    text: \n<RECYCULTIST DEFECTOR>I know how to defeat them!
+
+message_2:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>How? 
+
+message_3:
+    text: \n<RECYCULTIST DEFECTOR>Each of the establishments in the plaza have been overrun by RECYCULTISTS.\! You have to get rid of all of them.
+
+message_4:
+    text: \n<RECYCULTIST DEFECTOR>However, I must warn you:\. you also have to get through a trio of trashy evildoers,\. each of which has taken one establishment to themselves.
+
+message_5:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>Alright...
+
+message_6:
+    text: \n<RECYCULTIST DEFECTOR>Don't worry,\. OTHERMART is still standing and can provide everything you need.
+
+message_7:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 4
+      text: \n<KEL>Don't worry, SUNNY!\! We can beat them together!

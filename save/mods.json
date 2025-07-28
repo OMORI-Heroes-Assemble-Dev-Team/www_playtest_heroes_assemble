@@ -1,0 +1,15 @@
+{
+  "modsavefiles": false,
+  "oneloader": true,
+  "PinkLove": false,
+  "_conflictResolutions": {},
+  "_deltaPreference": {},
+  "_autoUpdater": {
+    "check": "allow",
+    "askedYet": true,
+    "lastCheck": 1743152558556,
+    "lastCheckVersion": "1.4.3",
+    "performUpdate": false
+  },
+  "SNAFB": false
+}

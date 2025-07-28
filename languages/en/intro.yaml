@@ -1,0 +1,36 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Yo SUNNY!
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>Some guys wearing recycle bins as helmets are loitering at the plaza.\! Mind if you can help me chase them off?
+
+message_2:
+    text: YES
+
+message_3:
+    faceset: MainCharacters_KelTheSuperhero
+    faceindex: 4
+    text: \n<KEL>That's the spirit!
+
+message_4:
+    faceset: MainCharacters_KelTheSuperhero
+    faceindex: 3
+    text: \n<KEL>But first, you need to get changed.
+
+message_5:
+    faceset: MainCharacters_KelTheSuperhero
+    faceindex: 4
+    text: \n<KEL>SUNNY,\. you look awesome!
+
+message_6:
+    faceset: MainCharacters_KelTheSuperhero
+    faceindex: 3
+    text: \n<KEL>Now, let's go!\! We don't have time to spare!

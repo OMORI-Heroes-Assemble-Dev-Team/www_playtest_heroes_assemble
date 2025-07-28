@@ -1,0 +1,37 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \n<RECYCULTIST>Whose bright idea was it to confront us for no reason?
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Y'all were being creepy in public!
+
+message_2:
+    text: \n<RECYCULTIST>Creepy?\! We were spreading the good word about recycling and saving the environment!
+
+message_3:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>You could've thought of a less outrageous way to do that!
+
+message_4:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>Standing around in public spaces and walking up to unsuspecting people?
+
+message_5:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>That's no good!
+
+message_6:
+    text: \n<RECYCULTIST>Really now?\! Alright then,\. we'll show you what we can really do!
+
+message_7:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>I have a bad feeling about this...

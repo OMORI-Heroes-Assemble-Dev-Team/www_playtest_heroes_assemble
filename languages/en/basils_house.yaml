@@ -1,0 +1,12 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \n<BASIL>Sometimes I wonder if KEL's superhero shenanigans was a good idea.
+
+message_1:
+    text: \n<BASIL>There's a reason I decided not to join in.
+
+message_2:
+    text: \n<AUBREY>I don't want to be a part of this.
