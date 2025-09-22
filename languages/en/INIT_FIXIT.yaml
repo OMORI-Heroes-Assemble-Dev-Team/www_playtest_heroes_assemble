@@ -1,0 +1,23 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Woah!\! That's a lot of walking...\! IN SPACE!
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Wait...\! Is that a spaceship?
+
+message_2:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 4
+      text: \n<KEL>AWESOME!
+
+message_3:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 4
+      text: \n<KEL>Let's go, SUNNY!\! We got a town to save!
