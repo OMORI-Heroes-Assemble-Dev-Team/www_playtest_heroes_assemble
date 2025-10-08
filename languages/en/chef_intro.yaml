@@ -1,0 +1,35 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \n<RECYCULTIST CHEF>Oh!\! Hello, children!
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Where have those grubby hands been?
+
+message_3:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Yeah!\! What have you been doing?
+
+message_3:
+    text: \n<RECYCULTIST CHEF>I have been preparing for a meal that is sure to enlighten you!
+
+message_4:
+    text: \n<RECYCULTIST CHEF>You will soon experience the grace of the Holy Bin!
+
+message_5:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>We see through your lies, trashface!
+
+message_6:
+    text: \n<RECYCULTIST CHEF>Fine then.\! Prepare to be baked until your last crumb!
+
+message_7:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 1
+      text: \n<MINCY>This does not look good...

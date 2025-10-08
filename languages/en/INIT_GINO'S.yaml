@@ -4,20 +4,20 @@
 
 message_0:
       faceset: MainCharacters_KelTheSuperhero
-      faceindex: 3
-      text: \n<KEL>Woah!\! That's a lot of walking...\! IN SPACE!
+      faceindex: 2
+      text: \n<KEL>There's something off about this place...
 
 message_1:
-      faceset: MainCharacters_KelTheSuperhero
-      faceindex: 3
-      text: \n<KEL>Wait...\! Is that a spaceship?
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 1
+      text: \n<MINCY>It's supposed to be GINO's,\. but it's been changed...
 
 message_2:
-      faceset: MainCharacters_KelTheSuperhero
-      faceindex: 4
-      text: \n<KEL>AWESOME!
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 7
+      text: \n<MINCY>It feels like we're about to be sacrificed!
 
 message_3:
       faceset: MainCharacters_KelTheSuperhero
-      faceindex: 4
-      text: \n<KEL>Let's go, SUNNY!\! We got a town to save!
+      faceindex: 2
+      text: \n<KEL>The best thing we can do is move forward.\! I don't think there's anything else to do...
