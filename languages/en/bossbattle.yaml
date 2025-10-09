@@ -1,0 +1,68 @@
+#----------------------------
+# ** IN BATTLE: MECHANIC
+#----------------------------
+
+message_0:
+   text: >
+    \>RECYCULTIST MECHANIC: \<You won't win!\! This whole world is trash, and I will help clean it!
+
+message_1:
+    text: >
+     \>RECYCULTIST MECHANIC: \<No...\! I gotta try harder!\! I cannot fail the Holy Bin!
+
+message_2:
+    text: >
+     \>RECYCULTIST MECHANIC: \<I WON'T LET YOU GET AWAY WITH THIS!
+
+message_3:
+    text: >
+     \>RECYCULTIST MECHANIC: \<NO!\! This cannot be!\! I have failed you, Your Highness!\! Please do not send me to the underworld garbage dump!
+
+#----------------------------
+# ** IN BATTLE: CHEF
+#----------------------------
+
+message_4:
+    text: >
+     \>RECYCULTIST CHEF: \<And now, I present to you,\. your dinner!
+
+message_5:
+    text: >
+     \>RECYCULTIST CHEF: \<What's wrong?\! Is the food garbage?
+
+message_6:
+    text: >
+     \>RECYCULTIST CHEF: \<You heathens!\! The Holy Bin would never feed you trash!
+
+message_7:
+    text: >
+     \>RECYCULTIST CHEF: \<What's wrong?\! Is the food garbage?
+
+message_8:
+    text: >
+     \>RECYCULTIST CHEF: \<Okay, please stop! That's enough!
+
+#----------------------------
+# ** IN BATTLE: LIBRARIAN
+#----------------------------
+
+message_9:
+    text: >
+     \>RECYCLETRON: \<Incompetent.
+
+message_10:
+    text: >
+     \>RECYCLETRON: \<Unproductive human.
+
+message_11:
+    text: >
+     \>RECYCLETRON: \<I am terminating your life.
+
+message_12:
+   text: >
+     \>RECYCLETRON: \<Enemy demise.
+
+message_13:
+   text: >
+     \>RECYCLETRON: \<ERROR 404: MESSAGE NOT FOUND.
+
