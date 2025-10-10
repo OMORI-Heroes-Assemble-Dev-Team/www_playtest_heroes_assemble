@@ -1,0 +1,48 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 0
+      text: \n<MINCY>Thanks for saving me, guys!
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>No worries, MINCY!
+
+message_2:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Wait,\. what are you wearing?
+
+message_3:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 5
+      text: \n<MINCY>Oh, me?
+
+message_4:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 6
+      text: \n<MINCY>You can call me...\! the TRASH PANDA!
+
+message_5:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 0
+      text: \n<MINCY>You know,\. because I'm a racoon!
+
+message_6:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 0
+      text: \n<KEL>I think that's a good name!
+
+message_7:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 0
+      text: \n<KEL>Do you want to help us?
+
+message_8:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 4
+      text: \n<MINCY>Absolutely!
