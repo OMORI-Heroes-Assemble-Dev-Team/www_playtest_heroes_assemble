@@ -34,3 +34,15 @@ message_7:
 
 message_8:
     text: \n<RECYCULTIST MECHANIC>I'd like to see you try...
+
+# =========================================================================================
+# ** POST-BATTLE
+# =========================================================================================
+
+message_9:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Phew!\! That was a fight!
+
+message_10:
+    text: \n<???>GET ME OUT OF HERE!

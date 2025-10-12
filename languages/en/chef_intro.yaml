@@ -10,7 +10,7 @@ message_1:
       faceindex: 3
       text: \n<KEL>Where have those grubby hands been?
 
-message_3:
+message_2:
       faceset: MainCharacters_MincyTheSuperhero
       faceindex: 3
       text: \n<KEL>Yeah!\! What have you been doing?
