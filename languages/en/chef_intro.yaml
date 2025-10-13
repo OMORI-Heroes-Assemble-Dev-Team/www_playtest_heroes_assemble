@@ -33,3 +33,17 @@ message_7:
       faceset: MainCharacters_MincyTheSuperhero
       faceindex: 1
       text: \n<MINCY>This does not look good...
+
+# =========================================================================================
+# ** POST-BATTLE
+# =========================================================================================
+
+message_8:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 6
+      text: \n<MINCY>Well that was interesting...
+
+message_9:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Now let's go!\! We gotta move!

@@ -41,7 +41,7 @@ message_8:
 
 message_9:
       faceset: MainCharacters_KelTheSuperhero
-      faceindex: 3
+      faceindex: 1
       text: \n<KEL>Phew!\! That was a fight!
 
 message_10:
