@@ -12,8 +12,8 @@ message_1:
 
 message_2:
       faceset: MainCharacters_MincyTheSuperhero
-      faceindex: 3
-      text: \n<KEL>Yeah!\! What have you been doing?
+      faceindex: 7
+      text: \n<MINCY>WHAT IS THIS MUSIC?!
 
 message_3:
     text: \n<RECYCULTIST CHEF>I have been preparing for a meal that is sure to enlighten you!
