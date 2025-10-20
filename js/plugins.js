@@ -172,6 +172,7 @@ var $plugins =
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"Olivia_MapDisplayNameCore","status":true,"description":"<MapDisplayNameCore> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"READ THE HELP FILE","Text Distance":"80","Window Height":"36","Y Position":"","Starting Y":"-80","Middle Y":"-80","Ending Y":"-90","Fade":"","Fade In Time":"0","Middle Time":"0","Fade Out Time":"0","Dim Color":"","Dim Color 1":"rgba(0, 0, 0, 0.6)","Dim Color 2":"rgba(0, 0, 0, 0)"}},
 {"name":"TDS Footprints","status":true,"description":"Adds footprints for characters.","parameters":{}},
+{"name":"DGT_YamlErrorDisambiguator","status":true,"description":"","parameters":{}},
 {"name":"GTP_OmoriFixes","status":true,"description":"v3.5.0 Bug Fixes and Optimization for OMORI","parameters":{}},
 {"name":"DisableMouse","status":false,"description":"Disables mouse clicks.","parameters":{}},
 {"name":"baja_modSaveData","status":true,"description":"","parameters":{}},
