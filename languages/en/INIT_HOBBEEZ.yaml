@@ -1,0 +1,24 @@
+message_0:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>This looks like a place SUNNY would go to.\! I don't think the RECYCULTISTS would create structures this detailed.
+
+message_1:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 2
+      text: \n<MINCY>I kinda want to leave...
+
+message_2:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>There doesn't seem to be anyone here.\ I did remember hearing that there's someone here.\! 
+
+message_3:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 0
+      text: \n<MINCY>Maybe these books have the key to getting rid of the RECYCULTISTS once and for all.
+
+message_4:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Let's take a look!

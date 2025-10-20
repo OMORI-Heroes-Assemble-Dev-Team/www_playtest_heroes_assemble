@@ -3,14 +3,14 @@
 # =========================================================================================
 
 message_0:
-      faceset: MainCharacters_KelTheSuperhero
-      faceindex: 2
-      text: \n<KEL>There's something off about this place...
-
-message_1:
       faceset: MainCharacters_MincyTheSuperhero
       faceindex: 1
-      text: \n<MINCY>It's supposed to be GINO's,\. but it's been changed...
+      text: \n<MINCY>What happened here?
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>There's something off about this place...\! It feels as if SUNNY has been here before.
 
 message_2:
       faceset: MainCharacters_MincyTheSuperhero
