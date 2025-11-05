@@ -1,0 +1,13 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 7
+      text: \n<MINCY>I can't see anything!
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Not to worry,\. I found a flashlight.
