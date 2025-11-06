@@ -1,5 +1,5 @@
 # =========================================================================================
-# ** TEMPLATE DIALOGUE
+# ** ENTERING RECYCLEHOUSE
 # =========================================================================================
 
 message_0:
@@ -11,6 +11,10 @@ message_1:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 1
       text: \n<KEL>Not to worry,\. I found a flashlight.
+
+# =========================================================================================
+# ** GARBAGE DUMP SCENE
+# =========================================================================================
 
 message_2:
       text: \n<KEL>SUNNY?
@@ -26,17 +30,21 @@ message_4:
 message_5:
       faceset: MainCharacter_Basil_dark
       faceindex: 3
-      text: \n<KEL>Wait...\! What happened?\! Why are we old?
+      text: \n<KEL>Wait...\! What happened?\| Why are we old?
 
 message_6:
       faceset: MainCharacter_Basil_dark
       faceindex: 5
-      text: \n<KEL>Was none of that was real?\! Everything we did?\! All fake?
+      text: \n<KEL>Was none of that was real?\| Everything we did?\! All fake?
 
 message_7:
       faceset: MainCharacter_Basil_dark
       faceindex: 10
-      text: \n<KEL>Nevermind.\! Let's get out of here.\! Maybe this place is just an illusion...
+      text: \n<KEL>Nevermind.\! Let's get out of here.\| Maybe this place is just an illusion...
+
+# =========================================================================================
+# ** INSERT MOVIE(?) HERE
+# =========================================================================================
 
 message_8:
       faceset: MainCharacter_Basil_dark
@@ -72,6 +80,10 @@ message_14:
       faceset: MainCharacter_Basil_dark
       faceindex: 44
       text: \n<KEL>\sinv[2]I-I’m sorry SUNNY...<br>I’m so sorry for abandoning everyone<br>I was just so scared...”
+
+# =========================================================================================
+# ** INSERT FRAMES OF SUNNY TRYING TO OPEN THE DOOR HERE
+# =========================================================================================
 
 message_15:
       faceset: MainCharacter_Basil_dark
