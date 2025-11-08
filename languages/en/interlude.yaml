@@ -24,22 +24,22 @@ message_3:
 
 message_4:
       faceset: MainCharacter_Basil_dark
-      faceindex: 6
+      faceindex: 10
       text: \n<KEL>Phew...\!You Really scared me there.\! That sure was a long fall...
 
 message_5:
       faceset: MainCharacter_Basil_dark
-      faceindex: 3
+      faceindex: 7
       text: \n<KEL>Wait...\! What happened?\| Why are we old?
 
 message_6:
       faceset: MainCharacter_Basil_dark
-      faceindex: 5
+      faceindex: 14
       text: \n<KEL>Was none of that was real?\| Everything we did?\! All fake?
 
 message_7:
       faceset: MainCharacter_Basil_dark
-      faceindex: 10
+      faceindex: 9
       text: \n<KEL>Nevermind.\! Let's get out of here.\| Maybe this place is just an illusion...
 
 # =========================================================================================
@@ -48,17 +48,17 @@ message_7:
 
 message_8:
       faceset: MainCharacter_Basil_dark
-      faceindex: 6
+      faceindex: 10
       text: \n<KEL>Huff…\. Can’t believe I thought that would work,\| heh,\! I mean,\| it was worth a try, right?
 
 message_9:
       faceset: MainCharacter_Basil_dark
-      faceindex: 5
+      faceindex: 9
       text: \n<KEL>Right?
 
 message_10:
       faceset: MainCharacter_Basil_dark
-      faceindex: 5
+      faceindex: 14
       text: \n<KEL>I’m sorry you had to see that, SUNNY.
 
 message_11:
@@ -97,15 +97,49 @@ message_16:
 
 message_17:
       faceset: MainCharacter_Basil_dark
-      faceindex: 5
+      faceindex: 14
       text: \n<KEL>You never gave up,\| did you?
 
 message_18:
       faceset: MainCharacter_Basil_dark
-      faceindex: 3
+      faceindex: 7
       text: \n<KEL>You kept pushing and pushing,\| and here I am giving up like before!
 
 message_19:
       faceset: MainCharacter_Basil_dark
-      faceindex: 4
+      faceindex: 8
       text: \n<KEL>I WILL NOT GIVE UP!\| WE'RE READY TO SAVE THE WORLD!!!\| AND NO ONE CAN STOP US ANYMORE!!!
+
+# =========================================================================================
+# ** POST-GARBAGE DUMP SCENE
+# =========================================================================================
+
+message_20:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 7
+      text: \n<KEL>We pulled on that door,\. but it opened inward.\| Weird.
+
+message_21:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 4
+      text: \n<KEL>Doesn't matter.\| WE MADE IT OUT!
+
+message_22:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 6
+      text: \n<MINCY>Heyo!
+
+message_23:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>MINCY!\| You're alive!<br>How did you get out?
+
+message_24:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 0
+      text: \n<MINCY>I have no idea!
+
+message_25:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 4
+      text: \n<KEL>Come on,\. let's go!\| The fate of FARAWAY lies in our hands!
