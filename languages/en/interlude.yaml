@@ -25,7 +25,7 @@ message_3:
 message_4:
       faceset: MainCharacter_Basil_dark
       faceindex: 10
-      text: \n<KEL>Phew...\!You Really scared me there.\! That sure was a long fall...
+      text: \n<KEL>Phew...\! You really scared me there.\! That sure was a long fall...
 
 message_5:
       faceset: MainCharacter_Basil_dark
@@ -35,7 +35,7 @@ message_5:
 message_6:
       faceset: MainCharacter_Basil_dark
       faceindex: 14
-      text: \n<KEL>Was none of that was real?\| Everything we did?\! All fake?
+      text: \n<KEL>Was none of that real?\| Everything we did?\! All fake?
 
 message_7:
       faceset: MainCharacter_Basil_dark
@@ -79,7 +79,7 @@ message_13:
 message_14:
       faceset: MainCharacter_Basil_dark
       faceindex: 44
-      text: \n<KEL>\sinv[2]I-I’m sorry SUNNY...<br>I’m so sorry for abandoning everyone<br>I was just so scared...”
+      text: \n<KEL>\sinv[2]I-I’m sorry SUNNY...<br>I’m so sorry for abandoning everyone<br>I was just so scared...
 
 # =========================================================================================
 # ** INSERT FRAMES OF SUNNY TRYING TO OPEN THE DOOR HERE
