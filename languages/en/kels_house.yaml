@@ -1,0 +1,9 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \n<HERO>So how's your adventure going?\| It looks like you two are having fun!
+
+message_1:
+    text: \n<MARI>Stay safe out there!\| We wouldn't want you to get hurt!

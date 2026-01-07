@@ -103,7 +103,7 @@ message_17:
 message_18:
       faceset: MainCharacter_Basil_dark
       faceindex: 7
-      text: \n<KEL>You kept pushing and pushing,\| and here I am giving up like before!
+      text: \n<KEL>You've decided to carry on,\| and here I am giving up like before!
 
 message_19:
       faceset: MainCharacter_Basil_dark
