@@ -1,0 +1,145 @@
+# =========================================================================================
+# ** ENTERING RECYCLEHOUSE
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 7
+      text: \n<MINCY>I can't see anything!
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Not to worry,\. I found a flashlight.
+
+# =========================================================================================
+# ** GARBAGE DUMP SCENE
+# =========================================================================================
+
+message_2:
+      text: \n<KEL>SUNNY?
+
+message_3:
+      text: \n<KEL>SUNNY!
+
+message_4:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: \n<KEL>Phew...\! You really scared me there.\! That sure was a long fall...
+
+message_5:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: \n<KEL>Wait...\! What happened?\| Why are we old?
+
+message_6:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>Was none of that real?\| Everything we did?\! All fake?
+
+message_7:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \n<KEL>Nevermind.\! Let's get out of here.\| Maybe this place is just an illusion...
+
+# =========================================================================================
+# ** INSERT MOVIE(?) HERE
+# =========================================================================================
+
+message_8:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: \n<KEL>Huff…\. Can’t believe I thought that would work,\| heh,\! I mean,\| it was worth a try, right?
+
+message_9:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \n<KEL>Right?
+
+message_10:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>I’m sorry you had to see that, SUNNY.
+
+message_11:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: \n<KEL>\sinv[2]I'm sorry...\! So sorry...\! So so sorry...
+
+message_12:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: \n<KEL>\sinv[2]I really can't be of help...
+
+message_13:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 45
+      text: \n<KEL>You were suffering for so long, and all I could do was knock and knock and knock…<br>I could’ve just broken that door down,\! but I didn’t.<br>I didn’t act when I could because I was scared I’d just make things worse like with HERO...<br>Like I always do...
+
+message_14:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: \n<KEL>\sinv[2]I-I’m sorry SUNNY...<br>I’m so sorry for abandoning everyone<br>I was just so scared...
+
+# =========================================================================================
+# ** INSERT FRAMES OF SUNNY TRYING TO OPEN THE DOOR HERE
+# =========================================================================================
+
+message_15:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 45
+      text: \n<KEL>\sinv[2]SUNNY?
+
+message_16:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 45
+      text: \n<KEL>I already said that wouldn’t work...
+
+message_17:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>You never gave up,\| did you?
+
+message_18:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: \n<KEL>You've decided to carry on,\| and here I am giving up like before!
+
+message_19:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: \n<KEL>I WILL NOT GIVE UP!\| WE'RE READY TO SAVE THE WORLD!!!\| AND NO ONE CAN STOP US ANYMORE!!!
+
+# =========================================================================================
+# ** POST-GARBAGE DUMP SCENE
+# =========================================================================================
+
+message_20:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 7
+      text: \n<KEL>We pulled on that door,\. but it opened inward.\| Weird.
+
+message_21:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 4
+      text: \n<KEL>Doesn't matter.\| WE MADE IT OUT!
+
+message_22:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 6
+      text: \n<MINCY>Heyo!
+
+message_23:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>MINCY!\| You're alive!<br>How did you get out?
+
+message_24:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 0
+      text: \n<MINCY>I have no idea!
+
+message_25:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 4
+      text: \n<KEL>Come on,\. let's go!\| The fate of FARAWAY lies in our hands!

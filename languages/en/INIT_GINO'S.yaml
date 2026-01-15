@@ -1,0 +1,26 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 7
+      text: \n<MINCY>What happened to GINO'S?
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>There's something off about this place...\! It feels as if SUNNY has been here before.
+
+message_2:
+      faceset: MainCharacters_MincyTheSuperhero
+      faceindex: 1
+      text: \n<MINCY>It stinks here.
+
+message_3:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>The best thing we can do is move forward.\! I don't think there's anything else to do...
+
+message_4:
+      text: We've got pizza made of food scraps we found in the dump.

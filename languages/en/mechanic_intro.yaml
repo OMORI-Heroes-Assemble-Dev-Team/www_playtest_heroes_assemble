@@ -1,0 +1,53 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \n<RECYCULTIST MECHANIC>Augh!\! Can't you see that I'm working?
+
+message_1:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>On what?
+
+message_2:
+    text: \n<RECYCULTIST MECHANIC>I am preparing to spread the Word of the Holy Bin across the stars!
+
+message_3:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 6
+      text: \n<KEL>I swear I heard this track before...
+
+message_4:
+    text: \n<RECYCULTIST MECHANIC>The universe will know the mantra of the three Rs:\. REUSE, REDUCE, RECYCLE!
+
+message_5:
+    text: \n<???>HELP ME!\! PLEASE!
+
+message_6:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>That's great,\. but I can hear that you're holding someone hostage.
+
+message_7:
+    text: \n<RECYCULTIST MECHANIC>She will watch as we unite the cosmos under our cause.\! There is no escape!
+
+message_8:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>If you want her,\. you'll have to get through us!
+
+message_9:
+    text: \n<RECYCULTIST MECHANIC>I'd like to see you try...
+
+# =========================================================================================
+# ** POST-BATTLE
+# =========================================================================================
+
+message_10:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Phew!\! That was a fight!
+
+message_11:
+    text: \n<???>GET ME OUT OF HERE!

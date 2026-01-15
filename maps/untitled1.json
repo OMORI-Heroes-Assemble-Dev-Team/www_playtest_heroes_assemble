@@ -1,0 +1,12 @@
+{ "columns":8,
+ "image":"..\/img\/tilesets\/SciFiModernInTA5.png",
+ "imageheight":512,
+ "imagewidth":256,
+ "margin":0,
+ "name":"SciFiModernInTA5",
+ "spacing":0,
+ "tilecount":128,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}

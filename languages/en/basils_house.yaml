@@ -10,3 +10,12 @@ message_1:
 
 message_2:
     text: \n<AUBREY>I don't want to be a part of this.
+
+message_3:
+    text: Will you convince AUBREY to join your shenanigans?
+
+message_4:
+    text: \n<AUBREY>Fine, we'll join you.
+
+message_5:
+    text: \n<BASIL>Wait, what?
