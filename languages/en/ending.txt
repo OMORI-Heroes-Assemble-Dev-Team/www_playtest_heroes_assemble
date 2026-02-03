@@ -1,0 +1,320 @@
+# =========================================================================================
+# ** PARK SCENE
+# =========================================================================================
+
+message_0:
+      text: \n<KEL>I don’t remember what happened after that, but I’m sure we kicked their butts a million times!
+
+message_1:
+      text: \n<KEL>That would've been pretty amazing.
+
+message_2:
+      text: \n<AUBREY>KEL,\. none of that ever happened.
+
+message_3:
+      text: \n<KEL>Aw, come on!\| I was channeling my imagination the way SUNNY does it!
+
+message_4:
+      text: \n<KEL>Did I do it right, SUNNY?
+
+message_5:
+      text: \n<KEL>You know,\| just because we’re not superheroes in real life doesn’t mean we won’t be going on any real life adventures.\! This picnic is just one of our many tales to come! So let's start on the most epic note ever!
+
+# =========================================================================================
+# ** KEL AT HOME
+# =========================================================================================
+
+message_6:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>Oh...
+
+message_7:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \n<KEL>Maybe a call would be better...
+
+# =========================================================================================
+# ** CALL
+# =========================================================================================
+
+message_8:
+      text: \n<???>...
+
+message_9:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \n<KEL>....
+
+message_10:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<???>You couldn’t sleep either?
+
+message_11:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>HERO...\| I...\| dreamt again.
+
+message_12:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: \n<HERO>...
+
+message_13:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>And you?
+
+message_14:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: \n<HERO>Med school is a good place if you never want to sleep.
+
+message_15:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>Oh……\| so…\| are you, like, studying?
+
+message_16:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: \n<HERO>I’m actually cooking.\! I brought the book you,\. and I’ve been trying out the recipes in the student lounge whenever I can.
+
+message_17:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: \n<HERO>They’re a real hit with my dorm mates,\. especially the chocolate chip cookies...
+
+message_18:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: I can’t wait to try them next time you visit…
+
+message_19:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: \n<HERO>...........
+
+message_20:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>HERO……\! You’re going to visit again,\| right?
+
+message_21:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: \n<HERO>...........
+
+message_22:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>HERO...\! Please promise me you’ll visit...\! and that we’ll have a picnic with all the awesome stuff you’ve cooked by their graves...
+
+message_23:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: \n<HERO>I heard they dug a new path in the cemetery to make enough room…\! I didn’t have a chance to visit before I left…
+
+message_24:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>But you will visit them.\ We’ll visit them…\| we’ll finally visit them and be together again,\| won’t we?
+
+message_25:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: \n<HERO>...........
+
+message_26:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \n<KEL>.......
+
+message_27:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: \n<HERO>I don’t know……\! I don’t know anything anymore…\| and I don’t think we’ll ever know…\| why……………………
+
+message_28:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \n<KEL>.......
+
+message_29:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: \n<HERO>\sinv[2]It’s not important……\| what happened happened…\| and we couldn’t stop it……\| and now I think………\| that’s not the problem………\| we should’ve never drifted apart……\| in the first place……”
+
+message_30:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: \n<HERO>\sinv[2]I’m sorry KEL……\| I’m so sorry…\| I’ll be sure to visit……\| I promise………
+
+message_31:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>It's alright, HERO.\! Thank you...\| for thinking about us...
+
+# =========================================================================================
+# ** FLAVOR TEXT BEFORE LEAVING
+# =========================================================================================
+
+message_32:
+      text: AUBREY told you that she decided to visit the cemetery tonight.\! You decide to check on her.
+
+# =========================================================================================
+# ** CEMETERY
+# =========================================================================================
+
+message_33:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>Hey, guys...
+
+message_34:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>I'm...\| sorry I haven't visited since the funeral...
+
+message_35:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>It’s……\| so weird……\| All I can think about is how HERO felt when MARI passed…\| I…\| get him a bit better now…
+
+message_36:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>AUBREY probably said everything I could ever think to say...
+
+message_37:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>We’re all………\! I want to say it’s Mari all over again……\| but it’s not the same……\! We were all there……
+
+message_38:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>SUNNY woke up……\| and maybe if the rest of us had too……\| maybe……
+
+message_39:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>I don’t know………\| SUNNY……\| I’ll never know why you didn’t come to us when you woke up……\| and BASIL……\| I’ll never know why you hurt SUNNY……
+
+message_40:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>You two must’ve been……\| so scared……
+
+message_41:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>It still doesn’t make sense…\| and you two aren’t here to make it make sense……
+
+message_42:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: \n<KEL>Not to worry...\| HERO's coming next time,\| and I'm sure AUBREY will join us...
+
+message_43:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 45
+      text: \n<KEL>\sinv[2]We'll be together again...
+
+message_44:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: \n<KEL>\sinv[2]I'm sorry...\! I failed you all...
+
+message_45:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: \n<KEL>\sinv[2]I abandoned everyone because I was scared of making things worse……\| I abandoned AUBREY because I was scared of making things worse……\| I abandoned you, BASIL, because I was scared of making things worse……
+
+message_46:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: \n<KEL>\sinv[2]And I abandoned you too, SUNNY……\! I abandoned all of you because I was a coward………\| If only I was the ORANGE JUSTICE, maybe I wouldn’t be so scared to reach out…
+
+message_47:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 45
+      text: \n<KEL>\sinv[2]But……\|what’s done is done……\| and even the greatest superhero can’t bring back those they’ve lost……
+
+message_48:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: \n<KEL>\sinv[2]All I can do is promise……\! Promise to be brave……\! Brave enough to be there when others need me……
+
+message_49:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \n<KEL>I won't leave you again,\| and I won't leave them.
+
+# =========================================================================================
+# ** ENDING
+# =========================================================================================
+
+message_50:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: \n<KEL>Hey BASIL……\! I’m sure this sky would make a great picture……\| not that I’m any good at photography…
+
+message_51:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: \n<KEL>And SUNNY……\! You could probably name all these constellations I’m seeing…\! I don’t think I could remember a single one……
+
+message_52:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>You were the stunning SUNBEAM,\| if you can recall.
+
+message_53:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: \n<KEL>Those superhero stories we made as kids……\! I feel that I could tell them to the world at some point…
+
+message_54:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>I wonder if HERO, AUBREY, and POLLY would like it...
+
+message_55:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>I wonder how many times Aubrey has seen this sky…
+
+message_56:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>.I……\| wonder……\| if Hero……\| is also looking at this……\| beautiful……\| wonderful…\| sky…
+
+message_57:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>.POLLY too...
+
+message_58:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>Sorry…\| for being……\| so boring…\| down here…
+
+message_59:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>If only…\| I could……\| fly………
+
+message_60:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>Then…\| we could……
+
+message_61:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: \n<KEL>All…\| meet……\| again………
+
+message_62:
+      text: You fell asleep
