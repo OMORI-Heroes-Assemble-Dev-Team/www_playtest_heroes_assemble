@@ -1,0 +1,12 @@
+{ "columns":34,
+ "image":"..\/img\/tilesets\/map9999.png",
+ "imageheight":640,
+ "imagewidth":1088,
+ "margin":0,
+ "name":"graveyard",
+ "spacing":0,
+ "tilecount":680,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}
