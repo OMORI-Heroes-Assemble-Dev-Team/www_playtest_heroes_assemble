@@ -3,19 +3,29 @@
 # =========================================================================================
 
 message_0:
-    text: \n<BASIL>Sometimes I wonder if KEL's superhero shenanigans was a good idea.
+      faceset: MainCharacter_YOUNG_2
+      faceindex: 4
+      text: \n<BASIL>Sometimes I wonder if KEL's superhero shenanigans was a good idea.
 
 message_1:
-    text: \n<BASIL>There's a reason I decided not to join in.
+      faceset: MainCharacter_YOUNG_2
+      faceindex: 4
+      text: \n<BASIL>There's a reason I decided not to join in.
 
 message_2:
-    text: \n<AUBREY>I don't want to be a part of this.
+      faceset: MainCharacter_YOUNG_2
+      faceindex: 32
+      text: \n<AUBREY>I don't want to be a part of this.
 
 message_3:
     text: Will you convince AUBREY to join your shenanigans?
 
 message_4:
-    text: \n<AUBREY>Fine, we'll join you.
+      faceset: MainCharacter_YOUNG_2
+      faceindex: 32
+      text: \n<AUBREY>Fine, we'll join you.
 
 message_5:
-    text: \n<BASIL>Wait, what?
+      faceset: MainCharacter_YOUNG_2
+      faceindex: 3
+      text: \n<BASIL>Wait, what?

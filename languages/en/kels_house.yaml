@@ -3,7 +3,11 @@
 # =========================================================================================
 
 message_0:
-    text: \n<HERO>So how's your adventure going?\| It looks like you two are having fun!
+      faceset: MainCharacter_Mari
+      faceindex: 8
+      text: \n<HERO>So how's your adventure going?\| It looks like you two are having fun!
 
 message_1:
-    text: \n<MARI>Stay safe out there!\| We wouldn't want you to get hurt!
+      faceset: MainCharacter_YOUNG_1
+      faceindex: 10
+      text: \n<MARI>Stay safe out there!\| We wouldn't want you to get hurt!
