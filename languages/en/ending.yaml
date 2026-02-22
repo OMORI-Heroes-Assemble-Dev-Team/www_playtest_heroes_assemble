@@ -18,30 +18,44 @@ message_4:
       text: \n<KEL>Right, SUNNY?
 
 message_5:
+      faceset: MainCharacter_YOUNG
+      faceindex: 0
       text: \n<SUNNY>...
 
-
 message_6:
+      faceset: MainCharacter_YOUNG_2
+      faceindex: 4
       text: \n<AUBREY>...
 
-
 message_7:
+      faceset: MainCharacter_Mari
+      faceindex: 8
       text: \n<HERO>...
 
 message_8:
+      faceset: MainCharacter_YOUNG
+      faceindex: 9
       text: \n<MARI>...
 
-message_9:
+message_9
+      faceset: MainCharacter_YOUNG_2
+      faceindex: 0
       text: \n<BASIL>...
 
 message_10:
+      faceset: MainCharacter_Mari
+      faceindex: 26
       text: \n<KEL>.\..\..
 
 message_11:
-      text: \n<KEL>You know,\| just because we’re not superheroes in real life doesn’t mean we won’t be going on any real life adventures.\! 
+      faceset: MainCharacter_Mari
+      faceindex: 24
+      text: \n<KEL>You know,\| just because we’re not superheroes in real life doesn’t mean we won’t be going on any real life adventures. 
 
 
 message_12:
+      faceset: MainCharacter_Mari
+      faceindex: 25
       text: \n<KEL>This picnic is just one of our many tales to come!\. So let's start on the most\. epic\. note\. \quake[1]EVER!
 
 
@@ -176,7 +190,7 @@ message_36:
 message_37:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: \n<HERO>And now I think………\|that’s not the problem………\|we should’ve never drifted apart……\|in the first place……”
+      text: \n<HERO>And now I think………\|that’s not the problem………\|we should’ve never drifted apart……\|in the first place……
 
 message_38:
       faceset: MainCharacter_Basil_dark
