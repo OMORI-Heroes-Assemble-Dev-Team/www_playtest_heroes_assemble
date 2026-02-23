@@ -346,7 +346,7 @@ message_63:
 message_64:
       faceset: MainCharacter_Basil_dark
       faceindex: 12
-      text: \n<KEL>I'd expect no less from the Stunning SUNBEAM, after all.
+      text: \n<KEL>I'd expect no less from the stunning SUNBEAM, after all.
 
 message_65:
       faceset: MainCharacter_Basil_dark
@@ -366,12 +366,12 @@ message_67:
 message_68:
       faceset: MainCharacter_Basil_dark
       faceindex: 12
-      text: \n<KEL>\sinv[1]I wonder how many times Aubrey has seen this sky…
+      text: \n<KEL>\sinv[1]I wonder how many times AUBREY has seen this sky…
 
 message_69:
       faceset: MainCharacter_Basil_dark
       faceindex: 12
-      text: \n<KEL>\sinv[1]I……\|wonder……\|if Hero……\|is also looking at this……\|beautiful……\|wonderful…\|sky…
+      text: \n<KEL>\sinv[1]I……\|wonder……\|if HERO……\|is also looking at this……\|beautiful……\|wonderful…\|sky…
 
 message_70:
       faceset: MainCharacter_Basil_dark
