@@ -37,7 +37,7 @@ message_8:
       faceindex: 9
       text: \n<MARI>...
 
-message_9
+message_9:
       faceset: MainCharacter_YOUNG_2
       faceindex: 0
       text: \n<BASIL>...
@@ -234,9 +234,7 @@ message_44:
       faceset: MainCharacter_Basil_dark
       faceindex: 14
       text: \n<KEL>AUBREY probably said everything I could ever think to say...
-      
-
-
+   
 message_45:
       faceset: MainCharacter_Basil_dark
       faceindex: 14
@@ -256,7 +254,6 @@ message_48:
       faceset: MainCharacter_Basil_dark
       faceindex: 14
       text: \n<KEL>And BASIL……\|I’ll never know why you hurt SUNNY……
-
 
 message_49:
       faceset: MainCharacter_Basil_dark
