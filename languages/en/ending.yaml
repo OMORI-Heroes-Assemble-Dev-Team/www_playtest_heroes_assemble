@@ -397,3 +397,23 @@ message_74:
 
 message_75:
       text: You fell asleep\|...\|and the sun wakes you up.\|
+
+message_76:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 1
+      text: \n<AUBREY>Hey, KEL.
+
+message_77:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 2
+      text: \n<AUBREY>Seems that you also wanted to visit.
+
+message_78:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 1
+      text: \n<AUBREY>Guess I'll give you some time to be with them.
+
+message_79:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 1
+      text: \n<AUBREY>See you soon.
