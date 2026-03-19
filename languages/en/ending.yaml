@@ -18,13 +18,13 @@ message_4:
       text: \n<KEL>Right, SUNNY?
 
 message_5:
-      faceset: MainCharacter_YOUNG
+      faceset: MainCharacter_YOUNG_1
       faceindex: 0
       text: \n<SUNNY>...
 
 message_6:
       faceset: MainCharacter_YOUNG_2
-      faceindex: 4
+      faceindex: 32
       text: \n<AUBREY>...
 
 message_7:
@@ -33,7 +33,7 @@ message_7:
       text: \n<HERO>...
 
 message_8:
-      faceset: MainCharacter_YOUNG
+      faceset: MainCharacter_YOUNG_1
       faceindex: 9
       text: \n<MARI>...
 
@@ -57,7 +57,6 @@ message_12:
       faceset: MainCharacter_Mari
       faceindex: 25
       text: \n<KEL>This picnic is just one of our many tales to come!\. So let's start on the most\. epic\. note\. \quake[1]EVER!
-
 
 
 # =========================================================================================
@@ -238,7 +237,7 @@ message_44:
 message_45:
       faceset: MainCharacter_Basil_dark
       faceindex: 14
-      text: \n<KEL>We...\| were all there………\! I want to say it’s Mari all over again……\| but it’s not the same……\!We were all there……
+      text: \n<KEL>We...\| were all there………\! I want to say it’s MARI all over again……\| but it’s not the same……\!We were all there……
 
 message_46:
       faceset: MainCharacter_Basil_dark
@@ -317,7 +316,7 @@ message_59:
 message_60:
       faceset: MainCharacter_Basil_dark
       faceindex: 9
-      text: \n<KEL>I won't leave you again,\|and I won't leave them either.
+      text: \n<KEL>I won't leave you again, \|and I won't leave them either.
 
 # =========================================================================================
 # ** ENDING
@@ -352,7 +351,7 @@ message_65:
 
 message_66:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 11
       text: \n<KEL>I wonder if HERO, AUBREY, and POLLY would like them...
 
 message_67:
@@ -362,41 +361,41 @@ message_67:
 
 message_68:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 11
       text: \n<KEL>\sinv[1]I wonder how many times AUBREY has seen this sky…
 
 message_69:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 13
       text: \n<KEL>\sinv[1]I……\|wonder……\|if HERO……\|is also looking at this……\|beautiful……\|wonderful…\|sky…
 
 message_70:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 13
       text: \n<KEL>\sinv[1]POLLY too...
 
 message_71:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 13
       text: \n<KEL>\sinv[1]Sorry…\|for being……\|so boring…\|down here…
 
 message_72:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 13
       text: \n<KEL>\sinv[1]If only…\|I could……\|fly………
 
 message_73:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 13
       text: \n<KEL>\sinv[1]Then…\|we could……
 
 message_74:
       faceset: MainCharacter_Basil_dark
-      faceindex: 12
+      faceindex: 13
       text: \n<KEL>\sinv[1]All…\|meet……\|again………
 
 message_75:
-      text: You fell asleep\|...\|and the sun wakes you up.\|
+      text: You fell asleep\|...\|and the sun wakes you up.
 
 message_76:
       faceset: MainCharacter_Basil_dark
