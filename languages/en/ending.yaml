@@ -86,8 +86,6 @@ message_16:
       text: \n<KEL>....
 
 message_17:
-      faceset: MainCharacter_Basil_dark
-      faceindex: 14
       text: \n<???>You couldn’t sleep either?
 
 message_18:
@@ -128,7 +126,7 @@ message_24:
 message_25:
       faceset: MainCharacter_Basil_dark
       faceindex: 10
-      text: I...\.can’t wait to try them next time you visit…
+      text: \n<KEL>I...\.can’t wait to try them next time you visit…
 
 message_26:
       faceset: MainCharacter_Basil_dark
@@ -375,23 +373,15 @@ message_70:
       text: \n<KEL>\sinv[1]POLLY too...
 
 message_71:
-      faceset: MainCharacter_Basil_dark
-      faceindex: 13
       text: \n<KEL>\sinv[1]Sorry…\|for being……\|so boring…\|down here…
 
 message_72:
-      faceset: MainCharacter_Basil_dark
-      faceindex: 13
       text: \n<KEL>\sinv[1]If only…\|I could……\|fly………
 
 message_73:
-      faceset: MainCharacter_Basil_dark
-      faceindex: 13
       text: \n<KEL>\sinv[1]Then…\|we could……
 
 message_74:
-      faceset: MainCharacter_Basil_dark
-      faceindex: 13
       text: \n<KEL>\sinv[1]All…\|meet……\|again………
 
 message_75:
