@@ -326,7 +326,6 @@ message_61:
       faceindex: 14
       text: \n<KEL>.\..\..\..
 
-
 message_62:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
@@ -350,7 +349,7 @@ message_65:
 message_66:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: \n<KEL>I wonder if HERO, AUBREY, and POLLY would like them...
+      text: \n<KEL>I've been dreaming about them a lot lately...
 
 message_67:
       faceset: MainCharacter_Basil_dark
@@ -406,3 +405,13 @@ message_79:
       faceset: MainCharacter_Basil_dark
       faceindex: 1
       text: \n<AUBREY>See you soon.
+
+message_80:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: \n<KEL>Sometimes, I would end up in places I think only you would see in your dreams...
+
+message_81:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: \n<KEL>Guess I'm not as imaginative as you...
