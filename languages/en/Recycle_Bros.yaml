@@ -1,0 +1,26 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: You turn on the monitor.
+
+message_1:
+    text: \n<???>Greetings.\! How can I help you?
+
+message_2:
+    text: You feel cold.
+
+message_3:
+    text: You input:\. "How do I get rid of cults lurking around town?"
+
+message_4:
+    text: \n<???>I'm sorry,\! but that is classified information.
+
+message_5:
+    text: \n<???>Activating security protocol.
+
+message_6:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>This does not look good...
