@@ -3,24 +3,47 @@
 # =========================================================================================
 
 message_0:
-    text: You turn on the monitor.
+    text: \n<???>Where do you think you're going?
 
 message_1:
-    text: \n<???>Greetings.\! How can I help you?
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<ORANGE JUSTICE>Hey!\. What's the big idea???\. The Park's a public space! Right, S-\.I mean\., Sunbeam?
 
 message_2:
-    text: You feel cold.
+      text: \n<SUNBEAM>...
 
 message_3:
-    text: You input:\. "How do I get rid of cults lurking around town?"
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<ORANGE JUSTICE>Exactly!\. So why won't you let us pass through? Who do you guys think you are?
 
 message_4:
-    text: \n<???>I'm sorry,\! but that is classified information.
+    text: \n<???>Heheheh...\.I thought you'd never ask.\. We are-\.<br>\{THE RECYCLE BROS!
 
 message_5:
-    text: \n<???>Activating security protocol.
+    text: \n<RECYCLE BRO>And in the name of all that is green and reusable, we won't let you pass!
 
 message_6:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<KEL>This does not look good...
+      text: \n<ORANGE JUSTICE>AH! No fair!
+
+message_7:
+    text: \n<RECYCLE BRO>Boo hoo.\. If you want to pass, you'll have to defeat us AND our gains.
+
+message_8:
+    text: \n<RECYCLE BRO>Which ain't happening kid. Not in a million,\| million,\| million-\^
+
+message_9:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<ORANGE JUSTICE>Argh! I get it already! And we'll see about that!!!
+
+message_10:
+    text: \n<RECYCLE BRO>Heh, back for more?
+
+message_11:
+    text: \n<RECYCLE BRO>\sinv[4]N-no...IMPOSSIBLE! IF ONLY WE WEREN'T ON THAT ACCURSED DIET!!!!!!!
+
+
