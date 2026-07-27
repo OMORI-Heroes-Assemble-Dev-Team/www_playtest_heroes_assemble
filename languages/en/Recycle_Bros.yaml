@@ -8,7 +8,7 @@ message_0:
 message_1:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<ORANGE JUSTICE>Hey!\. What's the big idea???\. The Park's a public space! Right, S-\.I mean\., Sunbeam?
+      text: \n<ORANGE JUSTICE>Hey!\. What's the big idea???\. The park's a public space! Right?
 
 message_2:
       text: \n<SUNBEAM>...
@@ -38,12 +38,5 @@ message_8:
 message_9:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<ORANGE JUSTICE>Argh! I get it already! And we'll see about that!!!
-
-message_10:
-    text: \n<RECYCLE BRO>Heh, back for more?
-
-message_11:
-    text: \n<RECYCLE BRO>\sinv[4]N-no...IMPOSSIBLE! IF ONLY WE WEREN'T ON THAT ACCURSED DIET!!!!!!!
-
+      text: \n<ORANGE JUSTICE>Argh! I get it already!\| And we'll see about that!!!
 

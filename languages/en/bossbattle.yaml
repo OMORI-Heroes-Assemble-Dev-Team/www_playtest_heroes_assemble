@@ -65,3 +65,19 @@ message_12:
 message_13:
    text: >
      \>RECYCLETRON: \<ERROR 404: MESSAGE NOT FOUND.
+
+#----------------------------
+# ** IN BATTLE: RECYCLE BROS.
+#----------------------------
+
+message_14:
+    text: >
+     \>RECYCLE BRO: \<N-no...\! IMPOSSIBLE!\! IF ONLY I WASN'T ON THAT ACCURSED DIET!!!!!!!
+
+message_15:
+    text: >
+     \>RECYCLE BRO: \<There goes my expired protein powder...
+
+message_16:
+    text: >
+     \>RECYCLE BRO: \<Pathetic.
