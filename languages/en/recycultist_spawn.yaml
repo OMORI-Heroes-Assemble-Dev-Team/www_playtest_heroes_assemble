@@ -35,3 +35,18 @@ message_7:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
       text: \n<KEL>I have a bad feeling about this...
+
+message_8:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>Where'd they go?
+
+message_9:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 2
+      text: \n<KEL>Hmmmm... \! Probably hiding among the bushes,\. waiting for the time to strike...
+
+message_10:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Let's go to \c[#64f7ed]FIX-IT!

@@ -8,15 +8,15 @@ message_0:
 message_1:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<ORANGE JUSTICE>Hey!\. What's the big idea???\. The park's a public space! Right?
+      text: \n<KEL>Hey!\. What's the big idea???\. The park's a public space! Right?
 
 message_2:
-      text: \n<SUNBEAM>...
+      text: \n<SUNNY>...
 
 message_3:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<ORANGE JUSTICE>Exactly!\. So why won't you let us pass through? Who do you guys think you are?
+      text: \n<KEL>Exactly!\. So why won't you let us pass through? Who do you guys think you are?
 
 message_4:
     text: \n<???>Heheheh...\.I thought you'd never ask.\. We are-\.<br>\{THE RECYCLE BROS!
@@ -27,7 +27,7 @@ message_5:
 message_6:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<ORANGE JUSTICE>AH! No fair!
+      text: \n<KEL>AH! No fair!
 
 message_7:
     text: \n<RECYCLE BRO>Boo hoo.\. If you want to pass, you'll have to defeat us AND our gains.
@@ -38,5 +38,5 @@ message_8:
 message_9:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<ORANGE JUSTICE>Argh! I get it already!\| And we'll see about that!!!
+      text: \n<KEL>Argh! I get it already!\| And we'll see about that!!!
 

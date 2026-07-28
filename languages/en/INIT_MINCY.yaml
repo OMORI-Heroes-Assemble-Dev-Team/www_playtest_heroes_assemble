@@ -46,3 +46,9 @@ message_8:
       faceset: MainCharacters_MincyTheSuperhero
       faceindex: 4
       text: \n<MINCY>Absolutely!
+
+message_9:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Off we go to \c[#64f7ed]GINO's!
+

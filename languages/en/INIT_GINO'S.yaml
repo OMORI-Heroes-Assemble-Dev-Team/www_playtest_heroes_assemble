@@ -5,7 +5,7 @@
 message_0:
       faceset: MainCharacters_MincyTheSuperhero
       faceindex: 7
-      text: \n<MINCY>What happened to GINO'S?
+      text: \n<MINCY>What happened to \c[#64f7ed]GINO'S?
 
 message_1:
       faceset: MainCharacters_KelTheSuperhero
@@ -24,3 +24,8 @@ message_3:
 
 message_4:
       text: We've got pizza made of food scraps we found in the dump.
+
+message_5:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 1
+      text: \n<KEL>Let's go to \c[#64f7ed]HOBBEEZ!
