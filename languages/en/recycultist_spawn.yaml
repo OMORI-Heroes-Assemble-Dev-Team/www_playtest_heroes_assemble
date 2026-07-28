@@ -44,9 +44,14 @@ message_8:
 message_9:
       faceset: MainCharacters_KelTheSuperhero
       faceindex: 2
-      text: \n<KEL>Hmmmm... \! Probably hiding among the bushes,\. waiting for the time to strike...
+      text: \n<KEL>Hmmmm...\! Probably hiding among the bushes,\. waiting for the time to strike...
 
 message_10:
       faceset: MainCharacters_KelTheSuperhero
-      faceindex: 1
-      text: \n<KEL>Let's go to \c[11]FIX-IT!
+      faceindex: 3
+      text: \n<KEL>Fortunately,\. \c[11]OTHERMART should be fine for buying supplies. 
+
+message_11:
+      faceset: MainCharacters_KelTheSuperhero
+      faceindex: 3
+      text: \n<KEL>Once we're sufficiently stocked up, let's start with \c[11]FIX-IT.
