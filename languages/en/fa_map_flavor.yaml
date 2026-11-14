@@ -415,7 +415,7 @@ message_105:
 message_106:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelWhoa! My mom had \c[5]PEPPER SPRAY\c[0]?\! That could come in handy if we run into any trouble.\! Good thinking, \n[8]!
+      text: \kelWhoa! Two cans of \c[5]PEPPER SPRAY\c[0]?\! Guess FARAWAY is more dangerous than we thought, \n[8]!
 
 message_107:
       text: A fancy purse.
